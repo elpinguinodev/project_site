@@ -1,0 +1,2 @@
+# project_site
+this is a prototype for Watch this space: Christchurch street art. This site follows the street art scene in Christchurch, particularly murals. The city landscape is constantly changing due to the rebuild post 2011 earthquakes. Artists are making new murals all the time, but at the same time buildings with murals are being demolished or new buildings are coming up that block the view of existing murals.
